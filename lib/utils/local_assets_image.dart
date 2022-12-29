@@ -1,0 +1,1 @@
+ const SPLASH_IMAGE = "assets/images/logo.jpeg";
